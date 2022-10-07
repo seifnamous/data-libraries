@@ -6,6 +6,8 @@ Logger wrapper to be used for console logging.
 
 Common interface for console logging that can be extended to cover file logging.
 
+Important: this wrapper is a lit bit overkill, it's to show how a library can be abstrated away and pushed to a central artifact repo.
+
 ## Getting Started
 
 ### Installing
